@@ -1,11 +1,11 @@
-## 🌸 My First Website
+## 🌸 My First Website:
 
 This is my very first website project, created to learn **HTML**, **CSS**, and **JavaScript**.  
 It’s a beginner-level project to practice building a web page and connecting scripts.
 
 ---
 
-## 💻 Project Features
+## 💻 Project Features:
 
 - Beautiful, simple layout with **HTML & CSS**  
 - Interactive **button** using JavaScript  
@@ -15,7 +15,7 @@ It’s a beginner-level project to practice building a web page and connecting s
 
 ---
 
-## 📂 Files in the Project
+## 📂 Files in the Project:
 
 | File_name| Description|
 |-----------------|-----------------------------------------|
@@ -25,7 +25,7 @@ It’s a beginner-level project to practice building a web page and connecting s
 
 ---
 
-## 🚀 How to Run Locally
+## 🚀 How to Run Locally:
 
 1. Make sure you have a web browser (Chrome, Edge, Firefox) installed.  
 2. Open the project folder.  
@@ -35,7 +35,7 @@ It’s a beginner-level project to practice building a web page and connecting s
 
 ---
 
-## 🌍 Optional: Make It Live Online
+## 🌍 Optional: Make It Live Online:
 
 You can deploy this website on **GitHub Pages**:
 
@@ -46,7 +46,7 @@ You can deploy this website on **GitHub Pages**:
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About Me:
 
 This website was made by **Nikita Jadhav** 💛✨  
 It’s my first step in **web development**.  
