@@ -17,7 +17,7 @@ It’s a beginner-level project to practice building a web page and connecting s
 
 ## 📂 Files in the Project
 
-| my_first_website| Contains 3 main files index.html,style.css and script.js|
+| File_name| Description|
 |-----------------|-----------------------------------------|
 | index.html      | Main HTML file containing the website structure |
 | style.css       | CSS file for styling the website        |
