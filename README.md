@@ -1,4 +1,4 @@
-# 🌸 My First Website:
+## 🌸 My First Website:
 
 This is my very first website project, created to learn **HTML**, **CSS**, and **JavaScript**.  
 It’s a beginner-level project to practice building a web page and connecting scripts.
